@@ -1,1 +1,1 @@
-docker build -t dev/seafile-dev-pro:6.2 .
+docker build -t docker-dev.seafile.top/seafile-pro-dev:6.3 .
